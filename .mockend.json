@@ -5,5 +5,13 @@
     "effectiveDate": "date",
     "linked_incentive": "string",
     "comments": "string"
+    "schemeTranches": "SchemeTranche[]"
+  },
+  "SchemeTranche": {
+    "isPreambleEditable": "boolean"
+    "position": "int"
+  },
+  "SchemeOtherCategories": {
+    "activityCategory": "int"
   }
 }
