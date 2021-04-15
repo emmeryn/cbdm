@@ -1,0 +1,9 @@
+{
+  "Scheme": {
+    "name": "string",
+    "version": "int",
+    "effectiveDate": "date",
+    "linked_incentive": "string",
+    "comments": "string"
+  }
+}
