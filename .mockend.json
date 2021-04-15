@@ -4,11 +4,11 @@
     "version": "int",
     "effectiveDate": "date",
     "linked_incentive": "string",
-    "comments": "string"
+    "comments": "string",
     "schemeTranches": "SchemeTranche[]"
   },
   "SchemeTranche": {
-    "isPreambleEditable": "boolean"
+    "isPreambleEditable": "boolean",
     "position": "int"
   },
   "SchemeOtherCategories": {
